@@ -1,5 +1,9 @@
 # Rule Engine Application 
-This project implements a 3-tier rule engine application using Flask, SQLAlchemy, and SQLite. It allows users to create, combine, and evaluate rules based on Abstract Syntax Trees(ASTs). The application provides a backend API and a Tkinter-basedfrontend for creating and managing rules.
+This project implements a 3-tier rule engine application
+using Flask, SQLAlchemy, and SQLite. It allows users to create,
+combine, and evaluate rules based on Abstract Syntax Trees(ASTs).
+The application provides a backend API and a Tkinter-basedfrontend
+for creating and managing rules.
 
 ## Table of Contents:
 * Features
